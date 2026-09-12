@@ -5,18 +5,18 @@ export default function Home() {
       <h1>xNglo</h1>
       <p>font pikxr templet</p>
 
-      {/* Mic test input */}
+      {/* Maik test input */}
       <div className="mt-6">
-        <label className="block mb-2">Mic test:</label>
+        <label className="block mb-2">maik test:</label>
         <textarea
           id="mic-test-input"
           rows={4}
           className="w-full p-2 border rounded-md text-black"
-          placeholder="Mic button dabakar boliye..."
+          placeholder="Maik batn dabakar boliy..."
         />
       </div>
 
-      {/* Sample xi38 text */}
+      {/* sxmpl xi38 tekst */}
       <h2 className="mt-6">sxmpl</h2>
       <p>xNglo Barxj wiQya nikejxn</p>
     </div>
