@@ -1,24 +1,10 @@
-// app/page.tsx
+import ClassSelector from '@/components/ClassSelector';
+
 export default function Home() {
   return (
     <div className="p-4">
-      <h1>xNglo</h1>
-      <p>font pikxr templet</p>
-
-      {/* Maik test input */}
-      <div className="mt-6">
-        <label className="block mb-2">maik test:</label>
-        <textarea
-          id="mic-test-input"
-          rows={4}
-          className="w-full p-2 border rounded-md text-black"
-          placeholder="Maik batn dabakar boliy..."
-        />
-      </div>
-
-      {/* sxmpl xi38 tekst */}
-      <h2 className="mt-6">sxmpl</h2>
-      <p>xNglo Barxj wiQya nikejxn</p>
+      <h1 className="text-4xl font-bold mb-6 text-center">xNglo School</h1>
+      <ClassSelector />
     </div>
   );
 }
