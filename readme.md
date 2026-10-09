@@ -28,17 +28,17 @@ Open http://localhost:3000
 
 ## Fonts Included
 
-- hindixv38
-- bengalixb38
-- eNgliSxe38
-- guzrajixg38
-- jeluguxj38
-- knRaxk38
-- mlyalxmxm38
-- oriyaxo38
-- pnzabixp38
-- sinhlaxs38
-- tmilxt38
+- xh38
+- xb38
+- xe38
+- xg38
+- xj38
+- xk38
+- xm38
+- xo38
+- xp38
+- xs38
+- xt38
 
 ## Files
 
